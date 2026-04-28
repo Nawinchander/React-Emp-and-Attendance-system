@@ -1,0 +1,36 @@
+client/
+│── src/
+│   │── app/
+│   │   └── store.js
+│   │
+│   │── api/
+│   │   └── axios.js
+│   │
+│   │── features/
+│   │   │── auth/
+│   │   │   └── authSlice.js
+│   │   │
+│   │   │── leave/
+│   │   │   └── leaveSlice.js
+│   │   │
+│   │   └── attendance/
+│   │       └── attendanceSlice.js
+│   │
+│   │── components/
+│   │   │── Navbar.jsx
+│   │   │── LeaveCard.jsx
+│   │   └── ProtectedRoute.jsx
+│   │
+│   │── pages/
+│   │   │── Login.jsx
+│   │   │── Dashboard.jsx
+│   │   │── ApplyLeave.jsx
+│   │   └── ManagerPanel.jsx
+│   │
+│   │── routes/
+│   │   └── AppRoutes.jsx
+│   │
+│   │── App.jsx
+│   │── main.jsx
+│
+└── package.json
