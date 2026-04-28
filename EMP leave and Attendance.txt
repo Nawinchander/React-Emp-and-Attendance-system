@@ -1,0 +1,13 @@
+Employee Leave & Attendance Management System
+
+This is an excellent real-life project because companies actually use systems like:
+
+Zoho People
+Keka
+Workday
+
+You can say:
+
+“I built an HR leave management platform where employees can apply for leave, managers approve/reject requests, and attendance logs are tracked.”
+
+This sounds much better than ecommerce in interviews.
