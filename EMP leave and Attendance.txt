@@ -49,3 +49,67 @@ This architecture explanation is excellent for interviews.
 
 
 
+PROJECT FLOW
+
+Employee:
+login
+apply leave
+view leave status
+mark attendance
+
+Manager:
+approve/reject leave
+view attendance reports
+
+
+
+employee-leave-system/
+│
+├── client/
+│   └── src/
+│       ├── app/
+│       │   └── store.js
+│       │
+│       ├── features/
+│       │   ├── auth/
+│       │   │   └── authSlice.js
+│       │   ├── leave/
+│       │   │   └── leaveSlice.js
+│       │   └── attendance/
+│       │       └── attendanceSlice.js
+│       │
+│       ├── pages/
+│       │   ├── Login.jsx
+│       │   ├── Dashboard.jsx
+│       │   ├── ApplyLeave.jsx
+│       │   └── ManagerPanel.jsx
+│       │
+│       ├── components/
+│       │   ├── Navbar.jsx
+│       │   └── LeaveCard.jsx
+│       │
+│       ├── App.jsx
+│       └── main.jsx
+│
+├── server/
+│   ├── config/
+│   │   ├── mysql.js
+│   │   └── mongo.js
+│   │
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   ├── leaveController.js
+│   │   └── attendanceController.js
+│   │
+│   ├── models/
+│   │   ├── mongo/
+│   │   │   └── Attendance.js
+│   │   └── mysql/
+│   │       └── employeeModel.js
+│   │
+│   ├── routes/
+│   │   ├── authRoutes.js
+│   │   ├── leaveRoutes.js
+│   │   └── attendanceRoutes.js
+│   │
+│   └── server.js
