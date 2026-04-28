@@ -11,3 +11,41 @@ You can say:
 “I built an HR leave management platform where employees can apply for leave, managers approve/reject requests, and attendance logs are tracked.”
 
 This sounds much better than ecommerce in interviews.
+
+
+This project includes:
+
+Frontend:
+
+React Hooks
+Redux Toolkit
+Props
+Axios
+Protected routes
+
+Backend:
+Node.js
+Express
+REST APIs
+Middleware
+Databases:
+
+MySQL:
+Employees
+Leave requests
+
+
+MongoDB:
+Attendance logs
+Notifications
+
+This is realistic because:
+
+structured HR data → MySQL
+flexible logs/notifications → MongoDB
+
+This architecture explanation is excellent for interviews.
+
+
+
+
