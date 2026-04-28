@@ -34,3 +34,33 @@ client/
 │   │── main.jsx
 │
 └── package.json
+
+
+HOW DATA FLOWS
+1. User opens dashboard
+
+Dashboard.jsx
+
+↓
+
+2. useEffect() dispatches
+
+fetchLeaves()
+
+↓
+
+3. Redux thunk calls backend API
+
+GET /api/leaves
+
+↓
+
+4. Redux store updates
+
+↓
+
+5. UI renders with props
+
+LeaveCard
+
+
