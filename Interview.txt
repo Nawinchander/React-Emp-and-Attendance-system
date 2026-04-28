@@ -4,6 +4,29 @@ Say:
 
 “I built an Employee Leave & Attendance Management System where React manages the frontend with hooks and Redux Toolkit for centralized state. Express provides REST APIs, MySQL stores structured leave data, and MongoDB stores attendance logs. This hybrid DB architecture ensures relational consistency and flexible logging.”
 
+“Explain your frontend architecture”
+
+Say:
+
+“I structured the frontend using feature-based architecture with Redux Toolkit slices for state separation, reusable components for UI modularity, React Router for protected routing, and Axios service abstraction for API communication.”
+
+That sounds very professional.
+
+
+WHAT THIS FRONTEND SHOWS
+
+This proves you know:
+
+Hooks
+Props
+Redux Toolkit
+Protected Routes
+API Layer Separation
+Feature-based structure
+Role-based rendering
+
+This is far better than simple CRUD projects.
+
 This sounds very strong.
 
 WHY THIS PROJECT IS GOOD FOR GIT
@@ -27,4 +50,22 @@ Description:
 
 Full-stack HR management system using React, Redux Toolkit, Node.js, Express, MySQL, and MongoDB for leave approvals and attendance logging.
 
+
+Why MySQL?
+
+“For structured employee leave workflows.”
+
+Why MongoDB?
+
+“For flexible attendance logs and notifications.”
+
+Why Redux?
+
+“To manage shared leave and attendance state across components.”
+
+Why separate controller/routes?
+
+“For scalability and maintainability.”
+
+This is exactly what interviewers ask.
 
