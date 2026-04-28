@@ -1,0 +1,30 @@
+“Explain the architecture”
+
+Say:
+
+“I built an Employee Leave & Attendance Management System where React manages the frontend with hooks and Redux Toolkit for centralized state. Express provides REST APIs, MySQL stores structured leave data, and MongoDB stores attendance logs. This hybrid DB architecture ensures relational consistency and flexible logging.”
+
+This sounds very strong.
+
+WHY THIS PROJECT IS GOOD FOR GIT
+
+Because it shows:
+
+CRUD APIs
+Redux
+Hooks
+Multi DB integration
+Real-world business workflow
+Scalable backend structure
+
+Recruiters like projects with business workflows, not just “todo apps”.
+
+
+GREAT GITHUB README TITLE
+Employee Leave & Attendance Management System
+
+Description:
+
+Full-stack HR management system using React, Redux Toolkit, Node.js, Express, MySQL, and MongoDB for leave approvals and attendance logging.
+
+
