@@ -30,3 +30,12 @@ module.exports = db;
 //   status VARCHAR(20)
 // );
 
+// CREATE TABLE leave_requests (
+//   id INT AUTO_INCREMENT PRIMARY KEY,
+//   employee_id INT,
+//   reason TEXT,
+//   status VARCHAR(20)
+// );
+
+
+
