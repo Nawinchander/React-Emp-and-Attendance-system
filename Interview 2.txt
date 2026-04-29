@@ -1,0 +1,28 @@
+Why JWT?
+
+“JWT provides stateless authentication, making APIs scalable without session storage.”
+
+Q2: Why Role Middleware?
+
+“Role middleware centralizes authorization logic and protects sensitive routes.”
+
+Q3: Why Docker?
+
+“Docker eliminates ‘works on my machine’ issues by standardizing runtime environments.”
+
+Q4: Why CI/CD?
+“CI/CD automates testing and reduces deployment risk.”
+
+Q5: Why MySQL + Mongo?
+
+“Relational leave data fits MySQL, while flexible attendance logs fit MongoDB.”
+
+Q6: Why Redux?
+
+“Redux manages global auth and leave state predictably.”
+
+FINAL INTERVIEW PROJECT SUMMARY
+
+Use this in interviews:
+
+“I built an Employee Leave & Attendance Management System using React, Redux Toolkit, Node.js, Express, MySQL, and MongoDB. JWT secures APIs, role middleware controls access, Docker standardizes environments, GitHub Actions automates CI/CD, and unit tests ensure code quality.”
