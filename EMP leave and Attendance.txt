@@ -113,3 +113,55 @@ employee-leave-system/
 │   │   └── attendanceRoutes.js
 │   │
 │   └── server.js
+
+
+
+
+FEATURES TO ADD
+Backend
+JWT Authentication
+Role-based authorization
+MySQL integration
+MongoDB integration
+Unit tests
+Frontend
+Auth flow
+Protected routes
+Redux auth state
+Frontend tests
+DevOps
+Docker
+Docker Compose
+CI/CD with GitHub Actions
+
+This is exactly what interviewers expect in mid-level full-stack roles.
+
+
+employee-leave-system/
+│
+├── client/
+│   ├── src/
+│   │   ├── app/
+│   │   ├── features/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   └── tests/
+│   │
+│   ├── Dockerfile
+│   └── package.json
+│
+├── server/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── tests/
+│   ├── Dockerfile
+│   └── server.js
+│
+├── docker-compose.yml
+│
+└── .github/
+    └── workflows/
+        └── ci.yml
