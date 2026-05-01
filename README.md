@@ -1,0 +1,40 @@
+“I built an HR leave management platform where employees can apply for leave, managers approve/reject requests, and attendance logs are tracked.”
+
+This is an excellent real-life project because companies actually use systems like:
+
+Zoho People
+Keka
+Workday
+
+
+
+This project includes:
+
+Frontend:
+
+React Hooks
+Redux Toolkit
+Props
+Axios
+Protected routes
+
+Backend:
+Node.js
+Express
+REST APIs
+Middleware
+Databases:
+
+MySQL:
+Employees
+Leave requests
+
+
+MongoDB:
+Attendance logs
+Notifications
+
+This is realistic because:
+
+structured HR data → MySQL
+flexible logs/notifications → MongoDB
